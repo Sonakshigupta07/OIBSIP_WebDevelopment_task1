@@ -1,4 +1,6 @@
 # OIBSIP_WebDevelopment_task1
+Project : CALCULATOR
+
 📌 Objective : 
 Build a simple calculator using HTML, CSS, and JavaScript that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The goal is to enhance fundamental web development skills and understand how front-end logic and UI work together.
 
