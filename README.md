@@ -11,13 +11,13 @@ Build a simple calculator using HTML, CSS, and JavaScript that performs basic ar
 1. Responsive and clean user interface.
 2. Real-time input display.
 3. Functional buttons for:
-       Addition (+)
-       Subtraction (-)
-       Multiplication (×)
-       Division (÷)
-       Clear (C)
-       Backspace (←)
-       Result (=)
+       Addition (+),
+       Subtraction (-),
+       Multiplication (×),
+       Division (÷),
+       Clear (C),
+       Backspace (←),
+       Result (=).
 
 4. Error handling for invalid inputs.
 
